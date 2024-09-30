@@ -1,0 +1,9 @@
+player_width = 2
+player_heigth = 16
+player_speed = 3
+player_segments_y_spd = {-2, -1, 0, 1, 2}
+ball_size = 2
+ball_speed_init = 1
+ball_speed_inc = 0.5
+map_lines = 1
+map_lines_offset = 0
